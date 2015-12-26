@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Introduction"
+date:   2015-12-26 01:37:19 -0600
+categories: misc intros
+---
+Hi!
+
+My name is Kyle Evans, and I do development stuffs. I have previously dabbled in reverse engineering, resulting in [kevans91/Savefile](https://github.com/kevans91/Savefile) as well as [kevans91/pydmsav](https://github.com/kevans91/pydmsav) -- pydmsav being a 'cleaner' rewrite of the original C++ version used for research purposes.
+
+Nowadays, my interests have shifted more towards Doom-related projects and lower level stuff. I intend to regularly contribute to [SLADE](https://github.com/sirjuddington/SLADE), to which I have made a few pull requests already in my adventure of making a [FreeBSD](https://www.freebsd.org) port. For more FreeBSD related things, you can check out my not-strictly-development [blog](http://www.audeuro.com). I have also made pull requests to [ZDoom](http://www.zdoom.org) to make it a little more friendly with compiling on FreeBSD as well as in scenarios that do not follow the way of most current Linux distros.
+
+This is all for now,
+
+Kyle Evans
